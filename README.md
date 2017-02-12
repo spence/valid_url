@@ -1,6 +1,9 @@
 # ValidUrl [![Build Status](https://travis-ci.org/spence/valid_url.svg?branch=master)](https://travis-ci.org/spence/valid_url)
 
-Validate a URL.
+Provides the best known regex for validating and extracting URLs.
+
+It builds on amazing work done by [Diego Perini](https://gist.github.com/dperini/729294)
+and [Mathias Bynens](https://mathiasbynens.be/demo/url-regex).
 
 ## Installation
 
