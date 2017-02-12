@@ -13,7 +13,7 @@ The package can be installed as:
 
     ```elixir
     def deps do
-      [{:valid_url, "~> 0.1.0"}]
+      [{:valid_url, "~> 0.1.1"}]
     end
     ```
 
