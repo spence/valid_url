@@ -1,4 +1,4 @@
-# ValidUrl [![Build Status](https://travis-ci.org/spence/valid_url.svg?branch=master)](https://travis-ci.org/spence/valid_url)
+# ValidUrl [![Build Status](https://travis-ci.org/spence/valid_url.svg?branch=master)](https://travis-ci.org/spence/valid_url) [![Hex pm](http://img.shields.io/hexpm/v/valid_url.svg?style=flat)](https://hex.pm/packages/valid_url)
 
 Provides the best known regex for validating and extracting URLs.
 
