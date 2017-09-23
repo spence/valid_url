@@ -5,10 +5,8 @@ defmodule ValidUrl do
   It exposes a single function, `validate`.
   """
 
-  @docp """
-  Regex to validate URLs.
-  Adapted from https://gist.github.com/dperini/729294.
-  """
+  # Regex to validate URLs.
+  # Adapted from https://gist.github.com/dperini/729294.
   @link_regex Regex.compile!(
     "^" <>
       # protocol identifier
